@@ -1,0 +1,32 @@
+{
+  "image_dir": "A:\\breast_ftv\\code_test\\temp",
+  "raw_dir": "A:\\breast_ftv\\TEcode\\data\\raw_data",
+  "seed": 0,
+
+
+  "sample_tp": null,
+  "cut_pt": null,
+  "extrapolate": false,
+  "n_patients": null,
+  "n_sample": null,
+  "batch_size": 1024,
+
+  "use_poisson": false,
+  "train_w_recon": false,
+
+  "latent_dim": 20,
+  "encoder_dim": ,
+  "node_hidden_dim": ,
+  "num_rnn": ,
+  "rtol": 1e-3,
+  "atol": 1e-4,
+
+  "num_encnode_layers": ,
+  "enc_method": "",
+
+  "num_decnode_layers": ,
+  "dec_method": "",
+
+
+
+}
